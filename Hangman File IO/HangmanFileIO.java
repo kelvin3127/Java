@@ -20,7 +20,7 @@ import java.util.Random;
 	
 	
 	
-public class Task10 
+public class HangmanFileIO 
 {		
 		//Boolean to check
 		static boolean correctWord = false;

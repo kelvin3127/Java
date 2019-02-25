@@ -1,8 +1,7 @@
 
 import java.util.Scanner;
 
-public class Task6 
-{
+public class CreditCard
 	public static void main(String[] args)
 	{
 	    // Create a Scanner

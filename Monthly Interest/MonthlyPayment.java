@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class task3
+public class MonthlyPayment
 {
 	public static void main(String[] args) 
 	{

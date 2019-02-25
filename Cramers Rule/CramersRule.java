@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 
 
-public class task1
+public class CramersRule
 
 {
 	

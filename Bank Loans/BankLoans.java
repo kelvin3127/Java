@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Bank Loans
+public class BankLoans
 {
 	public static void main(String[] args)
 	{

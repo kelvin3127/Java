@@ -1,5 +1,5 @@
 
-public class Complex implements Cloneable
+public class Complex2 implements Cloneable
 {
 	
 	double realNum;

@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Task5 
+public class Location 
 {
 	public static void main(String[] args) 
 	{

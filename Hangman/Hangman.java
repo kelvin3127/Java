@@ -2,7 +2,8 @@
 import java.util.Scanner;
 import java.util.Random;
 
-public class task4
+public class Hangman
+	
 {
 	
 	//Boolean to check

@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task7 
+public class Complex 
 {
 	public static void main(String[] args)
 	{

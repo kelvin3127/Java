@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task8 
+public class Bank Loans
 {
 	public static void main(String[] args)
 	{
